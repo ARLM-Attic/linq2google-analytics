@@ -12,3 +12,15 @@ c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.
 c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.pdb
 c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.dll
 c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\obj\Debug\ResolveAssemblyReference.cache
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\GoogleAnalyticsLinqProvider.Sample.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\GoogleAnalyticsLinqProvider.Sample.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\DotNetOpenAuth.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\Google.Apis.Analytics.v3.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\Google.Apis.Authentication.OAuth2.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\Google.Apis.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\GoogleAnalyticsLinqProvider.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\Newtonsoft.Json.Net35.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\GoogleAnalyticsLinqProvider.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.dll

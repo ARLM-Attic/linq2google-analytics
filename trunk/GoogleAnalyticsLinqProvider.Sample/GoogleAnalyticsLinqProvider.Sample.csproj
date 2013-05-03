@@ -20,7 +20,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\</OutputPath>
+    <OutputPath>output\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -108,16 +108,16 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.csproj">
-      <Project>{FC54B3CF-7DFB-4BAE-A44D-91659F14BCD1}</Project>
-      <Name>GoogleAnalyticsLinqProvider</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Views\Index\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\GoogleAnalytics\SignIn.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GoogleAnalyticsLinqProvider\GoogleAnalyticsLinqProvider.csproj">
+      <Project>{FC54B3CF-7DFB-4BAE-A44D-91659F14BCD1}</Project>
+      <Name>GoogleAnalyticsLinqProvider</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
