@@ -1,5 +1,4 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsLinqProvider.Sample", "GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample.csproj", "{AD17FC5E-8BFA-4CD9-BAF7-48A13689B10B}"
 EndProject
