@@ -1,0 +1,14 @@
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.Sample.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.Sample.pdb
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\DotNetOpenAuth.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\EntityFramework.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.Analytics.v3.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.Authentication.OAuth2.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\Newtonsoft.Json.Net35.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\EntityFramework.xml
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.pdb
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.dll
+c:\users\comp\documents\visual studio 2010\Projects\GoogleAnalyticsLinqProvider.Sample\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.pdb
