@@ -24,3 +24,13 @@ K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output
 K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\Newtonsoft.Json.Net35.dll
 K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\output\GoogleAnalyticsLinqProvider.pdb
 K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\obj\Debug\GoogleAnalyticsLinqProvider.Sample.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.Sample.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.Sample.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\DotNetOpenAuth.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.Analytics.v3.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.Authentication.OAuth2.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\Google.Apis.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\Newtonsoft.Json.Net35.dll
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\GoogleAnalyticsLinqProvider.pdb
+K:\VisualStudioProjects\LinqToGA\trunk\GoogleAnalyticsLinqProvider.Sample\bin\EntityFramework.xml
