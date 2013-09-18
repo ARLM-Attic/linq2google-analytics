@@ -65,7 +65,7 @@ namespace GoogleAnalyticsLinqProvider.Core
             }
             try
             {
-                var request = queryData.Service.Data.Ga.Get(queryData.ProfileId, queryData.From.ToString("yyyy-MM-dd"), queryData.To.ToString("yyyy-MM-dd"), metrics);
+                var request = queryData.Service.Data.Ga.Get("ga:" + queryData.ProfileId, queryData.From.ToString("yyyy-MM-dd"), queryData.To.ToString("yyyy-MM-dd"), metrics);
                 request.Dimensions = dimensions;
                 request.Sort = sort;
                 request.Filters = filter;
