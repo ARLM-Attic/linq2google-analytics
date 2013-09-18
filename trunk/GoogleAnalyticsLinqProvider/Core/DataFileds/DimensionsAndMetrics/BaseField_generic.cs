@@ -19,22 +19,18 @@ namespace GoogleAnalyticsLinqProvider.Core
         /// <returns></returns>
         public static implicit operator T(BaseField<T> m)
         {
-            return m.Value;
+            if (m == null)
+            {
+                return default(T);
+            }
+            else
+            {
+                return m.Value;
+            }
         }
         #endregion
 
         #region public
-
-        ///// <summary>
-        ///// 
-        ///// </summary>
-        //public virtual string FieldName
-        //{
-        //    get
-        //    {
-        //        return null;
-        //    }
-        //}
 
         /// <summary>
         /// Value object
